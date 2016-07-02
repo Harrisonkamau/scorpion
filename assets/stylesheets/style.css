@@ -1,0 +1,11 @@
+@media (min-width: 600px) {
+
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
+body{
+  background: grey;
+  margin: 0;
+}
