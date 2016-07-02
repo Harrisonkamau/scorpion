@@ -9,3 +9,59 @@ body{
   background: grey;
   margin: 0;
 }
+
+#image img{
+  width: 1200px;
+}
+
+.nopadding{
+    padding-left: 0px !important;
+    padding-right:0px !important;
+}
+/*
+  ========================================
+  About us
+  ========================================
+*/
+
+
+body {
+  background-color: green;
+   background: #cbe2c1;
+   font-family: "Roboto Condensed", Times, serif;
+}
+.col-sm-3 img{
+  padding-top: 20px;
+  height:200px;
+}
+#about h1{
+  color:green;
+}
+
+#about p,h1{
+  font-family:'raleway';
+}
+header img{
+  width: 1200px;
+}
+
+/*
+  ========================================
+  Primary footer
+  ========================================
+*/
+
+.primary-footer {
+  background: black;
+  color: #648880;
+  margin: auto;
+  width: 600px;
+  font-size: 14px;
+  /*padding-bottom: 44px;*/
+  padding-top: 20px;
+}
+
+.primary-footer small {
+  float: left;
+  font-weight: 400;
+}
