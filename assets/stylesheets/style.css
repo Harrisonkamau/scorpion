@@ -51,17 +51,10 @@ header img{
   ========================================
 */
 
-.primary-footer {
+#footer
+{
   background: black;
-  color: #648880;
-  margin: auto;
-  width: 600px;
-  font-size: 14px;
-  /*padding-bottom: 44px;*/
-  padding-top: 20px;
-}
-
-.primary-footer small {
-  float: left;
-  font-weight: 400;
+  border-style: solid;
+  border-color: transparent;
+  border-width: 5px;
 }
